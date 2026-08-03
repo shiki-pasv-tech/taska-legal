@@ -10,4 +10,4 @@ GTDを手軽に実践するための、iPhone向けタスク管理アプリで�
 - [サポート](support.html)
 - [利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)(Apple 標準のEULA)
 
-お問い合わせ: shiki@pasv.tech
+お問い合わせ: taska@pasv.tech
