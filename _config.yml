@@ -2,3 +2,9 @@ title: Taska
 description: GTDを手軽に実践するタスク管理アプリ
 theme: jekyll-theme-minimal
 lang: ja
+
+# テーマ(jekyll-theme-minimal)が出す「View the Project on GitHub」を消す。
+# ここは App Store の「サポート」から来る人が見るページで、
+# リポジトリへ案内する場所ではない。
+github:
+  is_project_page: false

@@ -131,6 +131,7 @@ title: Taska サポート
 
 - [プライバシーポリシー](privacy.html) … 預かっている情報と、その使い道
 - [利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)(Apple 標準のEULA)
+- [Taska について](index.html)
 
 ---
 

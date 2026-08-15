@@ -148,3 +148,10 @@ taska@pasv.tech
 
 本ポリシーを変更した場合は、この文書の最終更新日を改めます。
 重要な変更があるときは、アプリ内でもお知らせします。
+
+---
+
+## 関連
+
+- [サポート](support.html) … 困ったときの手引きと、お問い合わせ先
+- [利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)(Apple 標準のEULA)
