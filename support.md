@@ -129,6 +129,7 @@ title: Taska サポート
 
 ## 関連
 
+- [使いかた](https://shiki-pasv-tech.github.io/taska-legal/tutorial.html) … はじめての方へ
 - [プライバシーポリシー](https://shiki-pasv-tech.github.io/taska-legal/privacy.html) … 預かっている情報と、その使い道
 - [利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)(Apple 標準のEULA)
 - [Taska について](https://shiki-pasv-tech.github.io/taska-legal/)
