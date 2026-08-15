@@ -153,5 +153,5 @@ taska@pasv.tech
 
 ## 関連
 
-- [サポート](support.html) … 困ったときの手引きと、お問い合わせ先
+- [サポート](https://shiki-pasv-tech.github.io/taska-legal/support.html) … 困ったときの手引きと、お問い合わせ先
 - [利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)(Apple 標準のEULA)
